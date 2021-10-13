@@ -1,0 +1,11 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13",
+    "start": "nodemon server.js"
+  }
+}
